@@ -1,0 +1,65 @@
+body {
+  background-color: #C0C0C0;
+}
+
+#regform {
+  background-color: #FFFFFF; 
+  width: 400px;
+  height: 500px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+#authform {
+  background-color: #FFFFFF; 
+  width: 400px;
+  height: 370px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+h3 {
+  padding-top: 20px;
+  padding-bottom: 5px;
+  margin: 0;
+  text-align: center;
+  font: 55px "Fira Sans", sans-serif;
+}
+
+p {
+  margin: 0;
+  padding: 2px;
+  font: 10px "Fira Sans" ;
+}
+
+.inputblock {
+  width: 300px;
+  padding-top: 32px; 
+  margin: 0 auto;
+}
+
+input {
+  width: 300px;
+}
+
+button {
+  border-radius: 20px;
+  width: 300px;
+  height: 50px;
+  background-color: greenyellow;
+}
+
+a {
+  font: 10px 'Fira Sans';
+  color: blue;
+}
+
+#buttondiv {
+  width: 300px;
+  padding-top: 35px;
+  margin: 0 auto;
+}
+
+.hidden {
+  display: none;
+}
